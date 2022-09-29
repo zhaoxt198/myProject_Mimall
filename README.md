@@ -1,4 +1,4 @@
-# project_mimall
+# myProject_Mimall
 个人项目vue仿小米商城
 ### 项目介绍
 
@@ -14,13 +14,13 @@
 
 ### 商城页面与组件
 
-![](https://github.com/zhaoxt198/project_mimall/blob/main/images/key_tech.jpg)
+![](https://github.com/zhaoxt198/myProject_Mimall/blob/master/images/key_tech.jpg)
 
 
 
 ### 技术栈
 
-![](https://github.com/zhaoxt198/project_mimall/blob/main/images/tech_stack.jpg)
+![](https://github.com/zhaoxt198/myProject_Mimall/blob/master/images/tech_stack.jpg)
 
 
 
@@ -67,87 +67,87 @@ npm run serve 本地运行
 
 首页各个组件的静态代码实现，使用图片懒加载提升网页性能提升，使用swiper实现商品轮播图展示效果。
 
-![](https://github.com/zhaoxt198/project_mimall/blob/main/images/index1.png)
-![](https://github.com/zhaoxt198/project_mimall/blob/main/images/index2.png)
-![](https://github.com/zhaoxt198/project_mimall/blob/main/images/footer.png)
+![](https://github.com/zhaoxt198/myProject_Mimall/blob/master/images/index1.png)
+![](https://github.com/zhaoxt198/myProject_Mimall/blob/master/images/index2.png)
+![](https://github.com/zhaoxt198/myProject_Mimall/blob/master/images/footer.png)
 
 
 #### 产品站
 
 产品站页面吸顶组件、参数组件实现。
 
-![]()![产品站页](https://github.com/zhaoxt198/project_mimall/blob/main/images/goods_info.png)
+![]()![产品站页](https://github.com/zhaoxt198/myProject_Mimall/blob/master/images/goods_info.png)
 
 #### 商品详情
 
 商品详情交互接口实现。
 
-![](https://github.com/zhaoxt198/project_mimall/blob/main/images/goods_skim.png)
+![](https://github.com/zhaoxt198/myProject_Mimall/blob/master/images/goods_skim.png)
 
 
 #### 登录页面：账号 admin 密码 admin
 
 登录页面交互和接口完整代码实现。
 
-![](https://github.com/zhaoxt198/project_mimall/blob/main/images/login.png)
-![](https://github.com/zhaoxt198/project_mimall/blob/main/images/login_img.png)
+![](https://github.com/zhaoxt198/myProject_Mimall/blob/master/images/login.png)
+![](https://github.com/zhaoxt198/myProject_Mimall/blob/master/images/login_img.png)
 
 #### 登出页面
 
 登出页面交互。
 
-![](https://github.com/zhaoxt198/project_mimall/blob/main/images/logout.png)
+![](https://github.com/zhaoxt198/myProject_Mimall/blob/master/images/logout.png)
 
 
 #### 订单确认
 
 订单确认页面中部分静态模块实现以及接口功能实现。
 
-![](https://github.com/zhaoxt198/project_mimall/blob/main/images/order_confirm.png)
+![](https://github.com/zhaoxt198/myProject_Mimall/blob/master/images/order_confirm.png)
 
 #### 购物车页面
 
 购物车头部组件以及购物车所有功能的动态交互实现。
 
-![](https://github.com/zhaoxt198/project_mimall/blob/main/images/my_cart.png)
+![](https://github.com/zhaoxt198/myProject_Mimall/blob/master/images/my_cart.png)
 
 #### 订单支付页面
 
 订单结算交互实现，同时包含微信支付和支付宝支付同后台对接。
 
-![](https://github.com/zhaoxt198/project_mimall/blob/main/images/order_pay.png)
+![](https://github.com/zhaoxt198/myProject_Mimall/blob/master/images/order_pay.png)
 
 #### 支付宝支付
 
-![](https://github.com/zhaoxt198/project_mimall/blob/main/images/alipay.png)
+![](https://github.com/zhaoxt198/myProject_Mimall/blob/master/images/alipay.png)
 
 #### 微信支付
 
-![](https://github.com/zhaoxt198/project_mimall/blob/main/images/wechat.png)
+![](https://github.com/zhaoxt198/myProject_Mimall/blob/master/images/wechat.png)
 
 #### 订单列表
 
-![](https://github.com/zhaoxt198/project_mimall/blob/main/images/order_list.png)
+![](https://github.com/zhaoxt198/myProject_Mimall/blob/master/images/order_list.png)
 
 
 #### 其他功能
 
 导航栏下载APP二维码。
 
-![](https://github.com/zhaoxt198/project_mimall/blob/main/images/download_app.png)
+![](https://github.com/zhaoxt198/myProject_Mimall/blob/master/images/download_app.png)
 
 下拉列表。
 
-![](https://github.com/zhaoxt198/project_mimall/blob/main/images/dropdown_menu.png)
+![](https://github.com/zhaoxt198/myProject_Mimall/blob/master/images/dropdown_menu.png)
 
 右拉列表。
 
-![](https://github.com/zhaoxt198/project_mimall/blob/main/images/rightpull_menu.png)
+![](https://github.com/zhaoxt198/myProject_Mimall/blob/master/images/rightpull_menu.png)
 
 购物车为空时小提示。
 
-![](https://github.com/zhaoxt198/project_mimall/blob/main/images/cart_tip.png)
+![](https://github.com/zhaoxt198/myProject_Mimall/blob/master/images/cart_tip.png)
 
 返回顶部侧边栏。
 
-![](https://github.com/zhaoxt198/project_mimall/blob/main/images/sidebar.png)
+![](https://github.com/zhaoxt198/myProject_Mimall/blob/master/images/sidebar.png)
